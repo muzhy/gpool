@@ -15,7 +15,6 @@ To use `gpool` in your project, you can simply copy the `pool.go` file into your
 
 If it were a remote module, you would install it like this:
 ```bash
-# Replace with the actual repository path
 go get github.com/muzhy/gpool 
 ```
 
